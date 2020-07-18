@@ -14,8 +14,8 @@
 
 ```javascript
 const Agus = {
-  workingWith: [ HTML, CSS, Bootstrap 4, ],
-  learning: [React, Node, MongoDB],
+  workingWith: [ HTML, CSS, Bootstrap 4,Git ,Github ],
+  learning: [React, Node, MongoDB]
 }
 ```
 
