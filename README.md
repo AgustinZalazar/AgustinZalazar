@@ -14,8 +14,8 @@
 
 ```javascript
 const Agus = {
-  workingWith: [ React, NextJS, MySQL, Typescript ],
-  learning: [ Node, MongoDB]
+  workingWith: [ React, NextJS, MySQL, Typescript, MongoDB, React Native ],
+  learning: [ NodeJS ]
 }
 ```
 
